@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Punten</string>
+    <string name="main_permission_granted">All permissions has been granted</string>
+    <string name="main_permission_explanation">Permission hasn\'t been granted and must be allowed via App Settings.</string>
+    <string name="main_open_settings">Open Settings</string>
+</resources>
